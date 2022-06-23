@@ -1,7 +1,13 @@
 ### Olá! Sou Tayna Lima, seja bem-vindo (a) ao meu espaço 😄 
 
 ✉ lima.tayna@gmail.com
+
 ° Discord:Tayna#6679
+
+👩🏼‍🎓Formanda em Analise e Desenvolvimento de Sistemas - 1/2022
+
+👩🏼‍🎓Pós em Big Data (cursando)
+
 
 RESUMO PROFISSIONAL
 
