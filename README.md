@@ -4,7 +4,7 @@
 
 ° Discord:Tayna#6679
 
-👩🏼‍🎓Formanda em Analise e Desenvolvimento de Sistemas - 1/2022
+👩🏼‍🎓Formada em Analise e Desenvolvimento de Sistemas - 1/2022
 
 👩🏼‍🎓Pós em Big Data (cursando)
 
