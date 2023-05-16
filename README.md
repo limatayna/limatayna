@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Tayna Lima
 
 ## Olá visitante 👋
-Sou apaixonado por tecnologia e pelo seu avanço.
+Sou apaixonada por tecnologia
 Sou analista com foco em testes de sistemas web e app com enfase em testes automatizados baseado em Cypress + Cucumber, com experiência em software como Testlink. Mantis Bug, Jira e Bitbucket. :computer:
 
 HABILIDADES E COMPETÊNCIAS DESENVOLVIDAS
