@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Olá visitante 👋
 Sou apaixonada por tecnologia
-Sou analista com foco em testes de sistemas web e app com enfase em testes automatizados baseado em Cypress + Cucumber, com experiência em software como Testlink. Mantis Bug, Jira e Bitbucket. :computer:
+Sou analista com foco em testes de sistemas web e app com enfase em testes automatizados baseado em Cypress. :computer:
 
 HABILIDADES E COMPETÊNCIAS DESENVOLVIDAS
 
@@ -31,7 +31,7 @@ Técnicas de Testes
 * Trabalho em Equipe, proatividade, boa comunicação
 
 
- ⚡  &nbsp; Estou trabalhando na **eNe Soluções**
+ ⚡ 
  
   
   ##
